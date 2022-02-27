@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact and true relation how eighteene French and Irish men, whose names are set downe, were apprehended at Salt-come in Devonshire neere Plymouth, and from thence by order of Parliament, brought up to Newgate, on Munday the 7th March 1641. upon a suspition that they had an intention to transport victuals and munition to the rebels in Ireland. Whereunto is added very good newes from Ireland, brought over by the last post, 7 Mar. 1641.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84188</idno>
+            <idno type="STC">Wing E3610</idno>
+            <idno type="STC">Thomason E137_19</idno>
+            <idno type="STC">ESTC R3434</idno>
+            <idno type="EEBO-CITATION">99872374</idno>
+            <idno type="PROQUEST">99872374</idno>
+            <idno type="VID">156502</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84188)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156502)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E137[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact and true relation how eighteene French and Irish men, whose names are set downe, were apprehended at Salt-come in Devonshire neere Plymouth, and from thence by order of Parliament, brought up to Newgate, on Munday the 7th March 1641. upon a suspition that they had an intention to transport victuals and munition to the rebels in Ireland. Whereunto is added very good newes from Ireland, brought over by the last post, 7 Mar. 1641.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641 --  Sources --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156502:1" rendition="simple:additions"/>
+            <p>An Exact and True RELATION How eighteene French and Iriſh men, whoſe Names are ſet downe, were apprehended at <hi>Salt-come</hi> in <hi>Devonſhire</hi> neere <hi>Ply<g ref="char:EOLhyphen"/>mouth,</hi> and from thence by order of Parliament, brought up to Newgate, on Munday the 7<hi rend="sup">th</hi> March 1641. upon a ſuſpition that they had an inten<g ref="char:EOLhyphen"/>tion to tranſport victuals and munition to the Rebels in Ireland.</p>
+            <p>Whereunto is added very Good Newes from <hi>IRELAND,</hi> brought over by the laſt poſt, 7 Mar. 1641.</p>
+            <figure>
+               <figDesc>depiction of a sailing vessel</figDesc>
+            </figure>
+            <p>LONDON, Printed for <hi>Iohn Wright,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156502:2"/>
+            <pb facs="tcp:156502:2"/>
+            <head>The manner how eighteen French men who were bound for <hi>Ireland,</hi> wee brought to Newgate, 7 March 1641.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Was the Prophets expreſſion to no leſſe then a King, obedience is better then ſacrifice; but rebellion is as the ſinne of Witchcraft. A crime moſt hatefull to God and odious to man bringing ſwift deſtruction if not timely prevented, as upon particular preſons, ſo more generally upon whole kingdomes: it being that curſed root, from whence proceedeth many hundred branches of impious and confuſed actions, rapes, murder, famine, fire and ſword, with infinite the like bloudy and cruell maſſacres, doe ordinarily attend this hell hatcht fury; wherein the inno<g ref="char:EOLhyphen"/>cent ſuffer as well as the guilty, good and bad, one among another till at laſt the hand of Iuſtice continually purſuing, ith end over<g ref="char:EOLhyphen"/>takes, and in a moment, confounds the wretched actors thereof in ſudden and ſhamefull ruine.</p>
+            <p>This truth needes but little Illuſtration, the diſtreſſed condi<g ref="char:EOLhyphen"/>tion of our neighbour nation of <hi>Ireland</hi> at this preſent, occaſio<g ref="char:EOLhyphen"/>ned by the unnaturall rebellion of her owne ill-bred ſonnes, too well approves it, where ſuch in humaine cruelties, and unheard of tortures, are dayly practiſed by the barbarous enemy, that the ve<g ref="char:EOLhyphen"/>ry relation thereof, would melt a heart of flint to heare it,</p>
+            <p>But now bleſſed be God, ſuch hath the painful indeavours, and prudent care of our moſt gracious King, and his wiſe Parliament been, for the helpe and aſſiſtance of thoſe our oppreſſed brethren, that by their charitable benevolenee, and friendly aid, the prote<g ref="char:EOLhyphen"/>ſtants are much ſtrengthned, and the rebels diſcouraged, great hopes being left of a quicke and finall conqueſt over thoſe ty<g ref="char:EOLhyphen"/>rannicall and mercileſſe traitors.</p>
+            <pb facs="tcp:156502:3"/>
+            <p> Our royall King hath long ſince proclaimed them ſuch, let none therefore preſume to ſuccour or relieve ſuch a viprous gene<g ref="char:EOLhyphen"/>neration, that gnaw and feed upon the bowels of their owne deare mother, leſt vengeance reward their ungodly deſignes, and ſweepe away both authors and abettors at an inſtant.</p>
+            <p>The cauſe of this my writing proceedes from a late paſſage, now freſh in memory and the onely talke of the Citty, I meane the 18 French men, who by an order from the Parliament were apprehended neere Plimouth, and from thence brought to New<g ref="char:EOLhyphen"/>gate, upon a ſuſpition, that they had an intention to tranſport victuals and munition to the rebels in Ireland.</p>
+            <p>Their names are as followeth,
+<list>
+                  <item>Captaine <hi>Butler.</hi>
+                  </item>
+                  <item>Capt. <hi>Iohn Ryant.</hi>
+                  </item>
+                  <item>Capt. <hi>Daniel Ryant.</hi>
+                  </item>
+                  <item>
+                     <hi>Addam Gould</hi> marchant.</item>
+                  <item>
+                     <hi>Thomas Levaleu.</hi> marchant.</item>
+                  <item>
+                     <hi>Daniell Dally.</hi> maſter.</item>
+                  <item>
+                     <list>
+                        <head>ſervants.</head>
+                        <item>
+                           <hi>Morgan Quirke.</hi>
+                        </item>
+                        <item>
+                           <hi>Garret Foy.</hi>
+                        </item>
+                        <item>
+                           <hi>Iohn Ryant.</hi> 
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Nich Baggott.</hi>
+                  </item>
+                  <item>
+                     <hi>Darby Ryant.</hi>
+                  </item>
+                  <item>
+                     <hi>David Galloway.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Williams.</hi>
+                  </item>
+                  <item>
+                     <hi>Patricke Furlong.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Dym.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Gallaway.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Mattach.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Butler.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The Ship lies at Salt-come in <hi>Devonſhire,</hi> and was bound for Corke.</p>
+            <p>Theſe men being ſhipt in a ſmall veſſell, which as they ſay was onely laden with marchandize in France, and bound for Corke, though tis ſuppoſed twill be ſound otherwiſe, were by contrary windes driven upon the coaſts of England, at a place called Salt<g ref="char:EOLhyphen"/>come in Devonſh. where not without good cauſe they were ſtaid by the Governour of the Towne, and notice given to the Parlia<g ref="char:EOLhyphen"/>ment, thereof, who preſently ſent downe an order to ſtay their ſhip and bring them to London, which was accordingly done in this manner. The ſheriſſe of every county with the conſtables, were commanded to conduct them from place to place, till at liſt they came to Brainford, where they lodgd on Sunday night, March 6. The next day the ſheriſes of London went downe to
+<pb facs="tcp:156502:3"/>Brainford and from thence brought them to Newgate the ſame day at night, a Conſtables riding one each ſide all the way and the priſoners in the middle.</p>
+            <p>If they be guilty I make no queſtion but the Parliament will quickly ſift it out, and inflict ſuch puniſhment upon them as the hamouſneſſe of their offence deſerves.</p>
+            <div type="part">
+               <head>The laſt Newes from Ireland, 7 <hi>March,</hi> 1641.</head>
+               <p>The 10. of <hi>February</hi> our men went to <hi>Artain,</hi> againſt a caſtle ſo called, which had before done ſome miſ<g ref="char:EOLhyphen"/>chiefe, to ſome of our men, the enemy being in it, But the enemy fled before our ſecond comming, and left the Caſtle, and a garriſon was left in it by us.</p>
+               <p>Upon the 11th. wee had newes, that the enemy was intrenching at a place called <hi>Soughing</hi> Towne, ſome 6. Miles ſouth of our City, and ſome 2000 Foot, and 200. Horſe went out againſt them; The Lord <hi>Lambart</hi> commanding in chiefe; A ſmall battell they had, but the Enemy ſtood not, on the Enemies ſide ſome 70 or more was killed, and but one hurt on our ſide, and ſo came home that night, and brought home one of the Rebells Captaines and two more of the enemies Cap<g ref="char:EOLhyphen"/>taines ſlaine, many Letters of treaſon were found a<g ref="char:EOLhyphen"/>bout him that was taken.</p>
+               <p>On the 13. a man was brought to our City being taken by ſome of our ſcattering men ſcouting about our City, who confeſt without conſtraint, that he had killed an <hi>Engliſh woman</hi> at a place called <hi>Leſlipeſous,</hi> 6. Miles Weſt of our City, and waſhed his hands in her bloud, being ſet on by the popiſh Prieſts ſo to doe, hee was preſently hanged, but dyed with much repen<g ref="char:EOLhyphen"/>tance and a proteſtant, which few do.</p>
+               <pb facs="tcp:156502:4"/>
+               <p> Upon the 19. and 20. Arrived heere from you 2000 Foot and 300 horſe but little or no money, which made us poore of the City fare harder then before; which was to hard.</p>
+               <p>Upon the 21. Wee had knowledge that our Ships ſent with vittaile to relieve <hi>Tredath</hi> had got ſafely in, and in ſpight of the enemy, who had chayned up the harbour, but our men brake the Chaine, and got in, notwithſtanding. And publike thankes was with us for that happineſſe, for in ſuch a great ſtrait was that City, as to eat Horſe fleſh, as letters from my friends from the City to mee teſtified; Alſo Captaine <hi>Bartlet</hi> who was the Sea Captaine, in his comming home met with ſome fore ſmall Boats or Barkes of the <hi>Wexford</hi> men, going toward the enemy in the North to carry Lenten proviſion, but hee ſpoyled their deſigne in ſinking moſt or all of them, About the ſame time we had alſo Letters out of <hi>Munſter,</hi> that all that part of the Countrey was roſe in Rebellion being carried out by the Lord <hi>Muſcry,</hi> and Lore <hi>Roch,</hi> who had profeſ<g ref="char:EOLhyphen"/>ſed much fidellity, and many deceitfull promiſes had paſt to the preſident of that Province, till they ſaw their owne advantage, And it is reported they are net leſſe then 20000 ſtrong, beſt appointed of all the Rebels, for indeed this Lord <hi>Muſcroy</hi> is the moſt mo<g ref="char:EOLhyphen"/>nied man, of all the <hi>Iriſh</hi> Lords, So that now not one place in <hi>Ireland,</hi> but is in Rebellion, for the Lord of <hi>Clanrickard,</hi> ſtands as ſome thinke Neuter, does no<g ref="char:EOLhyphen"/>thing at all, or cannot do any thing, or will not, But wee heare that our Preſident of <hi>Munſter</hi> was forced to betake himſelfe to the ſtrong hold of <hi>Corke,</hi> and the Lord of <hi>Corke</hi> betooke himſelfe to <hi>Toyhall,</hi> which are
+<pb facs="tcp:156502:4"/>reported both to be beſiged by the enemy.</p>
+               <p>Upon the 23. of this moneth, newes was that at a place neere <hi>Feleſton</hi> ſix miles from us, a great multi<g ref="char:EOLhyphen"/>tude of the enemies had ſtrongly fortifide themſelves, and it is well fortifide by nature, having alſo a ſtrong Caſtle in it; Some 3000 of our men went againſt it, horſe and ſoote, Our Lord generall the Earle of <hi>Or<g ref="char:EOLhyphen"/>mond</hi> himſelfe went, as did Sir <hi>Charles Coot,</hi> Sir <hi>Symond Harcourt,</hi> and many more, <hi>Iohn Moore</hi> being one of the Soldiers, and upon the forelorne hope. had both his left and right hand man killed, he told me that our generall himſelfe, led up the forlorne hope, with ma<g ref="char:EOLhyphen"/>ny words of Comfort to them, able to make any man fight of ſee ſuch a man as he goe in ſuch danger: For the enemy had a great wood to ſhelter them beſide tren<g ref="char:EOLhyphen"/>ches, but our men after 2 houres Battell, beat them from their Trench, and from the wood, killing ſome 80 of them, For all that advantage but 7 of our men was killed, but that we loſt one Captaine <hi>Rochford,</hi> a man of ſuch note, that never more was any man be<g ref="char:EOLhyphen"/>wayled; For all the good and valliant parts of a Soldi<g ref="char:EOLhyphen"/>er was in him, in this bout Sir <hi>Symond Harcourts</hi> Regi<g ref="char:EOLhyphen"/>ment, behaved themſelves valliantly but for the Caſtle our men were forced to returne home without taking it, having nothing but field peeces with them, the way being to rotten to beare greater as yet; many more of the enemies had bin ſtaine but that the wood defended them, ſo that the Trees tooke off all that was ſent to them in this Caſtle is thought to be much wealth beſides all that have bin great men of the Re<g ref="char:EOLhyphen"/>bles. But our men will not ſo leave it, but will againe try their forces againſt in ſhortly.</p>
+               <pb facs="tcp:156502:5"/>
+               <p> As yeſterday our men came home, yet tis to be feard that a famine is like to be in our City, in that ſtill men come to us and proviſion is ſhort, and none of yours that come to us bring any vittailes, great taxes are vpon us, more then can be borne, He that had Butter, and Cheeſe, and Cloath at betwene 6 and 14 Shillings a yard here ſent by any out of London, might make a good trade of it; Cheſhire cheeſe is ſould here for ſix pence a pound already; Some of your Londoners are come hither (acquaintance of mine) that will ſend for ſuch things, for great profit may be made by them, and quicke returne.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
